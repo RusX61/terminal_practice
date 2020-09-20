@@ -1,0 +1,7 @@
+  PID TTY          TIME CMD
+    1 ?        00:00:00 init
+    6 ?        00:00:00 init
+    7 ?        00:00:00 init
+    8 pts/0    00:00:00 bash
+  347 pts/0    00:00:00 bash
+  350 pts/0    00:00:00 ps
