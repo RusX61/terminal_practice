@@ -3,7 +3,7 @@ cd testdir
 touch testfile
 ps -e > testfile
 cd ..
-tar -czf process.tar testdir
+tar -czf process.tar /testdir
 cd ..
-mv testdir  finaldir
+mv /testdir  /finaldir
 

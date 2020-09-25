@@ -1,9 +1,0 @@
-mkdir testdir 
-cd testdir
-touch testfile
-ps -e > testfile
-cd ..
-tar -czf process.tar testdir
-cd ..
-mv testdir  finaldir
-
